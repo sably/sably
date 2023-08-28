@@ -5,12 +5,13 @@ experience in designing and developing highly interactive and
 user-friendly websites. Proficient in **HTML, CSS, JavaScript, 
 TypeScript, Reactjs**, and **Nextjs**. 
 ##
-
+<!--
  ### 🛠️ Technologies & Tools
-
+-->
 <div align="center">
 <h3>🛠️ Technologies & Tools</h3>
 </div>
+
 <p align="center"> 
    <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
