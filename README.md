@@ -1,5 +1,10 @@
 ### Hey 👋
 
+result-oriented Front-End Web Developer with 6+ years of 
+experience in designing and developing highly interactive and 
+user-friendly websites. Proficient in HTML, CSS, JavaScript, 
+TypeScript, and Reacts. 
+
 ### 🛠️ Technologies & Tools
 
 <!--
